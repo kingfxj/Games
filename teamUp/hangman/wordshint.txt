@@ -1,0 +1,10 @@
+horse,animal
+orange,fruit
+tree,living thing
+bee,animal
+keyboard,object
+computer,object
+machine,object
+automobile,object
+canada,country
+group, tU
